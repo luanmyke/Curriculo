@@ -11,7 +11,7 @@ const AboutMe = () => {
               <div className='absolute-box w-[250px] h-[329px] bg-black rounded-xl skew-x-6 -translate-x-7 -rotate-0 dark:bg-white'></div>
               <div className='absolute-box w-[250px] h-[332px] bg-indigo-500 rounded-xl skew-x-3 -translate-x-3 -translate-y-[333px] rotate-2'></div>
               <img
-                src='./public/profile.jpg'
+                src='https://raw.githubusercontent.com/luanmyke/curriculo/main/public/profile.jpg'
                 className='max-w-[250px] rounded-xl -translate-y-[666px] rotate-3'
               />
             </div>
