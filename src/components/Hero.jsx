@@ -17,7 +17,7 @@ const Hero = () => {
             trackOnWindow={true}
             tiltReverse={true}>
             <img
-              src='./public/memoji-removebg.png'
+              src='/public/memoji-removebg.png'
               className='w-[85px] h-[120px] m-5 bg-indigo-500 rounded-full'
             />
           </Tilt>
